@@ -1,0 +1,8 @@
+C:\personal\AspNetCoreToDoApp\bin\BNB\Debug\netcoreapp1.1\AspNetCoreToDoApp.deps.json
+C:\personal\AspNetCoreToDoApp\bin\BNB\Debug\netcoreapp1.1\AspNetCoreToDoApp.runtimeconfig.json
+C:\personal\AspNetCoreToDoApp\bin\BNB\Debug\netcoreapp1.1\AspNetCoreToDoApp.runtimeconfig.dev.json
+C:\personal\AspNetCoreToDoApp\obj\BNB\Debug\netcoreapp1.1\AspNetCoreToDoApp.AssemblyInfo.cs
+C:\personal\AspNetCoreToDoApp\bin\BNB\Debug\netcoreapp1.1\AspNetCoreToDoApp.dll
+C:\personal\AspNetCoreToDoApp\bin\BNB\Debug\netcoreapp1.1\AspNetCoreToDoApp.pdb
+C:\personal\AspNetCoreToDoApp\obj\BNB\Debug\netcoreapp1.1\AspNetCoreToDoApp.dll
+C:\personal\AspNetCoreToDoApp\obj\BNB\Debug\netcoreapp1.1\AspNetCoreToDoApp.pdb
