@@ -55,3 +55,9 @@ The Github Repo of TodoApp using ASP.NET Core MVC.
    ####If it cannot connect to Database, please check whether the connectionString is correct in Startup.cs
 
     My default connectionString is  :  var connection = @"Server=.\SQLEXPRESS;Database=AspNetCoreToDo;Trusted_Connection=True;";
+	
+	
+	
+	Source : https://github.com/AndyButland/AspNetCoreToDo
+	
+	Article : https://medium.com/@ThisisZone/to-do-write-to-do-app-with-asp-net-core-c02bc3ca9fa1
