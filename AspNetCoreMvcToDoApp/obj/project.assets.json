@@ -10206,16 +10206,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\personal\\AspNetCoreToDoApp\\AspNetCoreToDoApp.csproj",
+      "projectUniqueName": "C:\\personal\\AspNetCoreMvcToDoApp\\AspNetCoreMvcToDoApp\\AspNetCoreToDoApp.csproj",
       "projectName": "AspNetCoreToDoApp",
-      "projectPath": "C:\\personal\\AspNetCoreToDoApp\\AspNetCoreToDoApp.csproj",
-      "outputPath": "C:\\personal\\AspNetCoreToDoApp\\obj\\",
+      "projectPath": "C:\\personal\\AspNetCoreMvcToDoApp\\AspNetCoreMvcToDoApp\\AspNetCoreToDoApp.csproj",
+      "outputPath": "C:\\personal\\AspNetCoreMvcToDoApp\\AspNetCoreMvcToDoApp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/AspNetCoreToDoApp.dll": "C:\\personal\\AspNetCoreToDoApp\\bin\\placeholder\\netcoreapp1.1\\AspNetCoreToDoApp.dll"
+        "lib/netcoreapp1.1/AspNetCoreToDoApp.dll": "C:\\personal\\AspNetCoreMvcToDoApp\\AspNetCoreMvcToDoApp\\bin\\placeholder\\netcoreapp1.1\\AspNetCoreToDoApp.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
